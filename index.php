@@ -2,7 +2,7 @@
 <html lang="en">
 
   <head>
-    <title>Business Plan | Polyfen</title>
+    <title>Privacy Policy | Polyfen</title>
 
     <!-- INCLUDE HEAD.PHP start -->
     <?php include 'includes/head.php';?>
@@ -14,7 +14,7 @@
     <nav>
         <h2 class="caption">Table of Contents</h2>
         <ul>
-            <li><a href="#" class="caption" style="text-transform:uppercase !important;">Business Plan</a></li>
+            <li><a href="#" class="caption" style="text-transform:uppercase !important;">Privacy Policy</a></li>
             <li><a href="#overview" class="caption">1. Overview</a></li>
             <li><a href="#purpose" class="caption">2. Purpose</a></li>
             <li><a href="#values" class="caption">3. Values</a></li>
@@ -34,12 +34,12 @@
           <img src="imgs/polyfen-logo.svg" alt="Polyfen" height="80px" width="auto">
           <div id="cover">
             <div id="cover-text">
-              <h1 class="title-2">Business Plan</h1>
+              <h1 class="title-2">Privacy Policy</h1>
               <h2 class="caption"><br><br>The Polyfen Group LLC<br><br>
               Est. 2018</h2>
             </div>
             <div id="cover-image">
-              <img src="imgs/folder-illustration.svg" alt="Folder Illustration" height="200px" width="auto">
+              <img src="imgs/padlock-illustration.svg" alt="Padlock Illustration" height="300px" width="auto">
             </div>
           </div>
         </section>
@@ -47,18 +47,6 @@
         <!-- INCLUDE OVERVIEW.PHP start -->
         <?php include 'content/overview.php';?>
         <!-- INCLUDE OVERVIEW.PHP end -->
-        <hr>
-        <!-- INCLUDE OUR-GOAL.PHP start -->
-        <?php include 'content/purpose.php';?>
-        <!-- INCLUDE OUR-GOAL.PHP end -->
-        <hr>
-        <!-- INCLUDE OUR-VALUES.PHP start -->
-        <?php include 'content/values.php';?>
-        <!-- INCLUDE OUR-VALUES.PHP end -->
-        <hr>
-        <!-- INCLUDE OUR-VALUES.PHP start -->
-        <?php include 'content/brands.php';?>
-        <!-- INCLUDE OUR-VALUES.PHP end -->
         <hr>
     </main>
   </body>
