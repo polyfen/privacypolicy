@@ -15,18 +15,11 @@
         <h2 class="caption">Table of Contents</h2>
         <ul>
             <li><a href="#" class="caption" style="text-transform:uppercase !important;">Privacy Policy</a></li>
-            <li><a href="#overview" class="caption">1. Overview</a></li>
-            <li><a href="#purpose" class="caption">2. Purpose</a></li>
-            <li><a href="#values" class="caption">3. Values</a></li>
-            <li><a href="#brands" class="caption">4. Brands</a></li>
-            <ul>
-                <li><a href="#polyfen" class="caption">4.1. Polyfen</a></li>
-                <li><a href="#poly-atlas" class="caption">4.2. Poly Atlas</a></li>
-                <li><a href="#poly-forum" class="caption">4.3. Poly Forum</a></li>
-                <li><a href="#poly-cookies" class="caption">4.4. Poly Cookies</a></li>
-                <li><a href="#poly-qwerty" class="caption">4.5. Poly Qwerty</a></li>
-                <li><a href="#poly-nucleus" class="caption">4.6. Poly Nucleus</a></li>
-            </ul>
+            <li><a href="#definitions-and-key-terms" class="caption">1. Definitions &amp; Key Terms</a></li>
+            <li><a href="#information-we-collect" class="caption">2. Information We Collect</a></li>
+            <li><a href="#how-we-use-your-information" class="caption">3. How We Use Your Information</a></li>
+            <li><a href="#when-we-use-your-information" class="caption">4. When We Use Your Information</a></li>
+            <li><a href="#when-we-use-third-parties" class="caption">5. When We Use Third Parties</a></li>
           </ul>
     </nav>
     <main>
@@ -44,9 +37,9 @@
           </div>
         </section>
         <hr>
-        <!-- INCLUDE OVERVIEW.PHP start -->
-        <?php include 'content/overview.php';?>
-        <!-- INCLUDE OVERVIEW.PHP end -->
+        <!-- INCLUDE CONTENT.PHP start -->
+        <?php include 'content/content.php';?>
+        <!-- INCLUDE CONTENT.PHP end -->
         <hr>
     </main>
   </body>
