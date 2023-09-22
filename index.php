@@ -21,7 +21,7 @@
         <li><a href="#when-we-use-your-information" class="caption">4. When We Use Your Information</a></li>
         <li><a href="#when-we-use-third-parties" class="caption">5. When We Use Third Parties</a></li>
       </ul>
-      <button aria-label="Open/Close navbar" tabindex="0" id="opener">
+      <button aria-label="Open/Close navbar" id="opener">
         <img src="imgs/icons/hamburger_icon.svg" alt="" height="30px" width="auto">
       </button>
     </nav>
