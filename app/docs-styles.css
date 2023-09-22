@@ -87,11 +87,11 @@ body nav {
     gap: 20px;
     padding: 20px;
     background-color: white;
-    width: 175px;
+    width: 240px;
     height: 100vh;
     border-top: 12px solid #7637f9;
     top: 0;
-    right: -215px;
+    right: -280px;
     transition: right .3s ease-in-out;
     z-index: 10;
 }
@@ -101,7 +101,7 @@ body nav button#opener {
     border-color: transparent;
     border-radius: 116px;
     position: absolute;
-    right: 184px;
+    right: 250px;
     top: 18px;
     width: 73px;
     height: 43px;

@@ -19,10 +19,10 @@ document.addEventListener('DOMContentLoaded', function () {
     function toggle() {
         if (window.innerWidth <= 768) {
             let computedStyle = window.getComputedStyle(navbar);
-            if (computedStyle.right === "-215px") {
+            if (computedStyle.right === "-280px") {
                 navbar.style.right = "0px";
             } else {
-                navbar.style.right = "-215px";
+                navbar.style.right = "-280px";
             }
         }
     }
