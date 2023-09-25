@@ -37,7 +37,7 @@
           </div>
         </section>
         <hr>
-        <!-- INCLUDE CONTENT.PHP start -->
+        <!-- INCLUDE CONTENT.PHP start  -->
         <?php include 'content/content.php';?>
         <!-- INCLUDE CONTENT.PHP end -->
         <hr>
