@@ -26,7 +26,7 @@
       <li>Email Addresses</li>
 </ul>
 <hr>
-<h2 class="heading-1">3. How We Use Your Information</h2>
+<h2 class="heading-1" id="how-we-use-your-information">3. How We Use Your Information</h2>
 <p>Any of the information we collect from you may be used in one of the following ways:</p>
 <ul class="hanging-list arrow-bullet">
       <li>To personalize your experience (your information helps us to better respond to your individual needs)</li>
@@ -37,11 +37,11 @@
       <li>To send periodic emails</li>
 </ul>
 <hr>
-<h2 class="heading-1">4. When We Use Your Informationn</h2>
+<h2 class="heading-1" id="when-we-use-your-information">4. When We Use Your Informationn</h2>
 <p>The Polyfen Group LLC will collect End User Data necessary to provide The Polyfen Group LLC services to our customers.</p>
 <p>End users may voluntarily provide us with information they have made available on social media websites. If you provide us with any such information, we may collect publicly available information from the social media websites you have indicated. You can control how much of your information social media websites make public by visiting these websites and changing your privacy settings.</p>
 <hr>
-<h2 class="heading-1">5. When We Use Third Parties</h2>
+<h2 class="heading-1" id="when-we-use-third-parties">5. When We Use Third Parties</h2>
 <p>We receive some information from the third parties when you contact us. For example, when you submit your email address to us to show interest in becoming a The Polyfen Group LLC customer, we receive information from a third party that provides automated fraud detection services to The Polyfen Group LLC. We also occasionally collect information that is made publicly available on social media websites. You can control how much of your information social media websites make public by visiting these websites and changing your privacy settings.</p>
 <hr>
 <h2 class="heading-1">6. How Your Information May Be Shared</h2>
